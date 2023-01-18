@@ -19,5 +19,4 @@ If the user would like the change any of the results, they simply go to that fil
 The user can remove all filters by going to each of their inputs and deleting the text that applied to the filter until all are removed OR the user can refresh the webpage.
 ## Summary:
 ![image](images/error_OR.png)
-The summary addresses one drawback of this webpage (2 pt)
-The summary addresses two additional recommendations for further development (4 pt)
+Although the website runs appropriatly, there are two drawbacks to the site. One is that the filter search is case sensitive and if a user enters a a city, state, country, or shape with a capital letter, the table will not recogize the text appropriately and nothing will appear in the search. Another drawback to the site is the lack of UFO sightings. I would recommend the next update include both a correction in the code to make the search inputs not case sensitive and input more UFO sightings for a better user experience. This should also include the data being able to have multiple search pages when lets say more than 50 rows are available under the filters.
