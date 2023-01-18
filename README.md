@@ -6,7 +6,7 @@
 ![image](images/website_welcome.png)
 When the user enters the website, they will see the title in the top center and a few short paragraphs that are their to introduce the user to the idea behind UFOs as well as entice them to keep looking into the website further. Depending on the size of the users window, they may or may not have the abilty to see the search filters or information table unless they scroll down. 
 ### The Filter Search and Information Table
-![image](images/filter_search_tables.png)
+![image](images/filter_search_table.png)
 Whether the user needs to scroll or sees the filter and information table, once visible, the user has the ability to begin using the filter search located on the left side of the page. The user will see that each filter has an example input in each filter that will also assist in informing the user of the approrate formating for each input. On the right of the webpage, the user can see the fully populated table of information the website has to offer.
 ### Using the Filter Search
 ![image](images/entering_OR.png)
